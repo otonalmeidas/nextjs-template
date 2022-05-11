@@ -4,7 +4,7 @@ By [@otonalmeidas](https://github.com/otonalmeidas) | [website](https://tonalmei
 
 ### Descrição:
 
-Para projetos que utilizam Nextjs com TypeScript.
+Para projetos que será utilizado Nextjs + TypeScript.
 
 ### Dependências de desenvolvimento:
 

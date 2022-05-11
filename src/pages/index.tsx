@@ -23,10 +23,9 @@ export default function Index() {
         </span>
         <h2 className="subtitle">Descrição:</h2>
         <p className="paragraph">
-          Para projetos que utilizam Nextjs e Stitches com TypeScript como
-          ferramenta de desenvolvimento.
+          Para projetos que será utilizado Nextjs + TypeScript.
         </p>
-        <h2 className="subtitle">Lista de pacotes:</h2>
+        <h2 className="subtitle">Dependências de desenvolvimento:</h2>
         <nav className="nav">
           <ul>
             <li>@typescript-eslint/eslint-plugin</li>
